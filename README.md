@@ -1,5 +1,7 @@
 ## Hi, I'm Pedro 👋
 
+<img align="right" width="150" height="150" src="https://github.com/pgaspar/pgaspar/blob/master/smile.png?raw=true">
+
 I'm a full-stack developer working remotely at [Union](https://union.vc). I'm also mentoring the Ruby track at [Exercism](http://exercism.io/profiles/pgaspar).
 
 ### Things I value
