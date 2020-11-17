@@ -6,17 +6,17 @@ I'm a full-stack developer working remotely at [Union](https://union.vc). I'm al
 
 ### Things I value
 
-:heart: Inclusive teams, healthy communication and transparency
-<br>:white_check_mark: Code quality, maintainability and testing
-<br>:telescope: Learning, teaching and contributing to the community
+:heart:&nbsp;Inclusive teams, healthy communication and transparency
+<br>:white_check_mark:&nbsp;Code quality, maintainability and testing
+<br>:telescope:&nbsp;Learning, teaching and contributing to the community
 
 ### My top tools
 
-:gem: Ruby on Rails, Sinatra, Django, Express.js
-<br>:sparkles: React.js, Webpack
-<br>:art: CSS, SASS, Tailwind
-<br>:iphone: Objective-C, React Native
-<br>:books: Learning about: Elixir, Phoenix, GraphQL, Elm, Gatsby, Next.js, Netlify
+:gem:&nbsp;Ruby on Rails, Sinatra, Django, Express.js
+<br>:sparkles:&nbsp;React.js, Webpack
+<br>:art:&nbsp;CSS, SASS, Tailwind
+<br>:iphone:&nbsp;Objective-C, React Native
+<br>:books:&nbsp;Learning about: Elixir, Phoenix, GraphQL, Hugo, Next.js, Netlify
 
 ### Stats
 
